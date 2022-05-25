@@ -1,1 +1,1 @@
-# connected-apps
+# connected-app
